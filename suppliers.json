@@ -1,0 +1,18 @@
+{
+    "suppliers": [
+        {
+            "supplierName": "Benny Boy",
+            "Address" : "Zone 2, Bulan Sorsogon",
+            "email" : "bnnyBoy@gmail.com",
+            "contactNo" : 96753426781,
+            "is_Active?" : "Yes"
+        },
+        {
+            "supplierName" : "Myla Sevillino",
+            "Address" : "Makati City",
+            "email" : "mylaSevillino@gmail.com",
+            "contactNo" : 95624518925,
+            "is_Active?" : "Yes"
+        }
+    ]
+}

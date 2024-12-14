@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemsList>
+<consumable>
+   <items>
+        <itemName>Coupon Bond</itemName>
+        <price>300.00</price>
+        <description>Long</description>
+        <unit> Ream </unit>
+   </items>
+   <items>
+        <itemName>Ballpen </itemName>
+        <price>12.00</price>
+        <description>Blaclk, Signpen</description>
+        <unit>Peice</unit>
+   </items>
+</consumable>
+<nonConsumable>
+    <items>
+        <itemName>Laptop</itemName>
+        <price>25,000</price>
+        <description>Acer</description>
+        <unit>Piece</unit>
+    </items>
+    <items>
+        <itemName>Cellphone</itemName>
+        <price>9,000</price>
+        <description>Vivo - Blue</description>
+        <unit>Piece</unit>
+    </items>
+</nonConsumable>
+</itemsList>

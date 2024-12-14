@@ -1,0 +1,36 @@
+{
+    "employees" : [
+        {
+            "employeeNo": 1,
+            "employeeName": "Janice Rivera Docot",
+            "email": "jeyArdy@gmai.com",
+            "contactNo": 98755453102,
+            "department": "IT DEPARTMENT"
+
+        },
+        {
+            "employeeNo": 2,
+            "employeeName": "Abel Hona",
+            "email": "ablHona@gmai.com",
+            "contactNo": 97865432427,
+            "department": "IT DEPARTMENT"
+
+        },
+        {
+            "employeeNo": 3,
+            "employeeName": "Bryan Gobris",
+            "email": "brynGbrs@gmai.com",
+            "contactNo": 95638496245,
+            "department": "IT DEPARTMENT"
+
+        },
+        {
+            "employeeNo": 4,
+            "employeeName": "Eden Mae Palacio",
+            "email": "ednMaePalacio@gmai.com",
+            "contactNo": 95245813459,
+            "department": "IT DEPARTMENT"
+
+        }
+    ]
+}

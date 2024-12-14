@@ -1,0 +1,33 @@
+{
+    "items" : [
+        {
+            "Consumable": "Yes",
+            "itemName" : "Coupon Bond",
+            "price" : 300.00,
+            "description" : "Long",
+            "unit" : "Ream"
+        },
+        {
+            "Consumable": "Yes",
+            "itemName" : "Ballpen",
+            "price" : 12.00,
+            "description" : "Black - Signpen",
+            "unit" : "Piece"
+        },
+        {
+            "Consumable": "No",
+            "itemName" : "Laptop",
+            "price" : 25000,
+            "description" : "Lenovo",
+            "unit" : "Piece"
+        },
+        {
+            "Consumable": "No",
+            "itemName" : "Cellphone",
+            "price" : 9000,
+            "description" : "Vivo - Blue",
+            "unit" : "Piece"
+        }
+    ]
+}
+
